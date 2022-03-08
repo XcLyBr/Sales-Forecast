@@ -1,2 +1,3 @@
-# Sales-Forecast
+# Sales Predictions
+
 Sales Predictions
